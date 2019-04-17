@@ -1,0 +1,22 @@
+PODS:
+  - duia_image (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - duia_image (from `.symlinks/plugins/duia_image/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  duia_image:
+    :path: ".symlinks/plugins/duia_image/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  duia_image: 4c99de0f0d20946e6a5130c5e9889895be4f78f8
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.1
